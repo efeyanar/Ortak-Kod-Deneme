@@ -1,0 +1,21 @@
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\bin\Debug\Ortak Kod Yazma Uygulaması.exe.config
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\bin\Debug\Ortak Kod Yazma Uygulaması.exe
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\bin\Debug\Ortak Kod Yazma Uygulaması.pdb
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak_Kod_Yazma_Uygulaması.Form1.resources
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak_Kod_Yazma_Uygulaması.Properties.Resources.resources
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.exe
+C:\Users\user\source\repos\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.pdb
+D:\Algoritma\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\bin\Debug\Ortak Kod Yazma Uygulaması.exe.config
+D:\Algoritma\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\bin\Debug\Ortak Kod Yazma Uygulaması.exe
+D:\Algoritma\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\bin\Debug\Ortak Kod Yazma Uygulaması.pdb
+D:\Algoritma\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.csproj.AssemblyReference.cache
+D:\Algoritma\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak_Kod_Yazma_Uygulaması.Form1.resources
+D:\Algoritma\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak_Kod_Yazma_Uygulaması.Properties.Resources.resources
+D:\Algoritma\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.csproj.GenerateResource.cache
+D:\Algoritma\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.csproj.CoreCompileInputs.cache
+D:\Algoritma\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.exe
+D:\Algoritma\Ortak Kod Yazma Uygulaması\Ortak Kod Yazma Uygulaması\obj\Debug\Ortak Kod Yazma Uygulaması.pdb
